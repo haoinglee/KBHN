@@ -1,4 +1,5 @@
-Summary
+# Summary
+
 The data used in this study is a real-world dataset of junior high school grades 7 to 8 excavated from physics teaching resources such as textbooks, teaching aids, quiz questions, etc. It contains a total of 20,744 images spread
 over 24 knowledge points such as Temperature, Density, Velocity, Pressure, Mass, Lens, etc.  These teaching images are manually annotated by a team of professional teachers in our collaborating company. To ensure annotation quality and consistency, three annotators, with specialized knowledge of physical disciplines, participated in the annotation task. The entire annotation proceeds
 in a two-stage process, where each annotator independently label the entire dataset of 20744 images in stage 1, and each of the teaching images where the annotators do not have complete agreement is negotiated by all annotators to
@@ -7,8 +8,8 @@ is resized to 224  224 pixels in the RGB color space.
 
 
 
-Usage License
- 
+# Usage License
+
 Neither the Central China Normal University nor any of the researchers involved can guarantee the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
 
 The user may not state or imply any endorsement from the Central China Normal University or the National Engineering Research Center for E-Learning (NERCEL).
@@ -20,7 +21,7 @@ In no event shall the Central China Normal University, its affiliates or employe
 
 If you have any further questions or comments, please email lihao205@mail.ccnu.edu.cn
 
-Further Information About our research team
+# Further Information About our research team
 
 Our research team is affiliated with the National Engineering Research Center for E-Learning at the Central China Normal University. Our research projects have explored a variety of fields including:
 
