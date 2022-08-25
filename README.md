@@ -4,7 +4,7 @@ The data used in this study is a real-world dataset of junior high school grades
 over 24 knowledge points such as Temperature, Density, Velocity, Pressure, Mass, Lens, etc.  These teaching images are manually annotated by a team of professional teachers in our collaborating company. To ensure annotation quality and consistency, three annotators, with specialized knowledge of physical disciplines, participated in the annotation task. The entire annotation proceeds
 in a two-stage process, where each annotator independently label the entire dataset of 20744 images in stage 1, and each of the teaching images where the annotators do not have complete agreement is negotiated by all annotators to
 determine the final knowledge point in stage 2. This process produces a high-quality physics teaching image dataset annotated with knowledge points. All the images are in JPG format. Due to the inconsistent size of images, each image
-is resized to 224  224 pixels in the RGB color space. 
+is resized to 224*224 pixels in the RGB color space. 
 
 
 
@@ -31,4 +31,4 @@ multimodal learning
 organization and management of educational resources
 subject knowledge representation.
 
-If you have exciting ideas for experimental work to conduct on our physics quiz question dataset, send us an email at lihao205@mail.ccnu.edu.cn - we are always interested in working with external collaborators.
+If you have exciting ideas for experimental work to conduct on our physics quiz teaching image dataset, send us an email at lihao205@mail.ccnu.edu.cn - we are always interested in working with external collaborators.
